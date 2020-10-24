@@ -1,0 +1,7 @@
+{
+  "name": "YSS-Admin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
